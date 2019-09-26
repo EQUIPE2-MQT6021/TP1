@@ -1,0 +1,8 @@
+---
+Titre: "Equipe 2 - Travaux Pratique 1 - Question 2"
+Membre 1: "Joel BASSA (111254964)"
+Membre 2: "Joseph Guerrier (XXXXXXXXX)"
+Membre 3: "Miso Zekanovic (XXXXXXXXX)"
+date: "26/09/2019"
+output: html_document
+---
